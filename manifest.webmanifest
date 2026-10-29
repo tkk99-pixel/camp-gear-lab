@@ -1,6 +1,6 @@
 {
-  "name": "キャンプギア配置ラボ",
-  "short_name": "配置ラボ",
+  "name": "ギアラボ",
+  "short_name": "ギアラボ",
   "description": "持っているギアと買いたいギアを、実寸で区画に置いて試す",
   "start_url": "./",
   "scope": "./",
